@@ -34,6 +34,7 @@ Python modules:
 pysam (https://github.com/pysam-developers/pysam)
 pybedtools (https://pythonhosted.org/pybedtools/)
 psutil (https://pypi.python.org/pypi/psutil)
+memory_profiler (https://pypi.python.org/pypi/memory_profiler)
 
 For the companion scripts to plot results and process tumor/normal pairs, you will need:
 
